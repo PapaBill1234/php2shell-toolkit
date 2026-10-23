@@ -7,6 +7,26 @@ dashboard, a CLI, a lab harness and the write-ups of what does and does not work
 The vulnerability is **patched upstream** (8.5.12 / 8.4.27 / 8.3.36 / 8.2.35,
 and 8.6.0-rc4). Everything here is for research and authorised testing.
 
+## Legal notice
+
+**Use this only on systems you own or have explicit, written permission to
+test.** Running any part of this toolkit - probing, scanning, crawling, or
+either exploit chain - against a system you do not own or have not been
+authorised to test is **illegal in most countries**. Unauthorised access to,
+or interference with, a computer system is a criminal offence under laws such
+as the Computer Fraud and Abuse Act (United States), the Computer Misuse Act
+(United Kingdom) and comparable legislation elsewhere, and it can lead to
+prosecution, heavy fines and **prison sentences**. It is also a civil wrong:
+the owner can sue you for the damage, downtime and remediation costs.
+
+Using a proxy, VPN, hosting provider or shared infrastructure does not make
+this lawful, and it does not hide you: a scan does not become legal because it
+was pointed at an IP rather than a domain, or because someone else published
+the target list.
+
+This is not legal advice. If you are not certain you have permission, you do
+not have it: stop and obtain it in writing first.
+
 ## What this is, and what it is not
 
 **The exploits are ports, not new research.** Chain A follows Bulletdev's
