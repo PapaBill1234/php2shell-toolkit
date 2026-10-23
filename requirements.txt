@@ -1,0 +1,2 @@
+# dashboard only; the CLI and both chains are stdlib-only
+websocket-client>=1.6

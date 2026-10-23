@@ -1,0 +1,15 @@
+Third-party material
+====================
+
+reference/php2shell-poc
+  Author: Michael D. Bullet (Bulletdev). Copied as published; the repository
+  carried no licence file at the time of copying. Chain A and its requirements
+  (cleanup=Off, save_path guesses) follow this work.
+
+reference/PHP2Shell-Full-Chain-Exploit
+  Author: 78ResearchLab, MIT licence (see its LICENSE). tool/fullchain.py is a
+  port of its exploit.py; the leak, spray layout and oracle are theirs.
+
+Everything else was written for this toolkit. No credentials are bundled: the
+solver key in tool/solvercf.py is the placeholder YOUR_SOLVERCF_KEY and must be
+supplied through the SOLVERCF_KEY environment variable.

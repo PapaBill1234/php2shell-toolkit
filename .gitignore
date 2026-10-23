@@ -1,0 +1,4 @@
+tool/p2s.db
+__pycache__/
+*.pyc
+*.log
