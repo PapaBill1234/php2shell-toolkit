@@ -219,6 +219,13 @@ Honest list — these are the reasons it is a research tool, not a product.
     after the probe rather than around it, and a crashed browser slot is not
     recovered mid-job.
 
+## Support
+
+**No support is given.** This is a research release published as-is: there is
+no issue triage, no guaranteed response, no fixes and no help with running it
+against your own targets. Nothing here is maintained, and any use is at your
+own risk and under your own authorisation.
+
 ## Provenance
 
 * `reference/php2shell-poc` — Bulletdev (chain A idea, `cleanup`/save-path
